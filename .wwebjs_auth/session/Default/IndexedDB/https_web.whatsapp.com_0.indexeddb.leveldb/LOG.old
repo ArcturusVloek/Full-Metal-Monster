@@ -1,0 +1,13 @@
+2025/06/04-19:50:23.531 31a8 Reusing MANIFEST C:\Users\suric\bot-rpg-js\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/04-19:50:23.532 31a8 Recovering log #53
+2025/06/04-19:50:23.589 31a8 Reusing old log C:\Users\suric\bot-rpg-js\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000053.log 
+2025/06/04-19:50:25.109 140c Level-0 table #58: started
+2025/06/04-19:50:25.120 140c Level-0 table #58: 272120 bytes OK
+2025/06/04-19:50:25.121 140c Delete type=0 #53
+2025/06/04-19:50:25.122 140c Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/04-19:50:26.560 140c Compacting 1@1 + 1@2 files
+2025/06/04-19:50:26.609 140c Generated table #59@1: 29645 keys, 1219126 bytes
+2025/06/04-19:50:26.609 140c Compacted 1@1 + 1@2 files => 1219126 bytes
+2025/06/04-19:50:26.611 140c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/04-19:50:26.611 140c Delete type=2 #55
+2025/06/04-19:50:26.611 140c Delete type=2 #58
