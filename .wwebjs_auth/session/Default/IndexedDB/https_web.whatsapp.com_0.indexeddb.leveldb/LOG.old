@@ -1,13 +1,22 @@
-2025/06/04-19:50:23.531 31a8 Reusing MANIFEST C:\Users\suric\bot-rpg-js\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
-2025/06/04-19:50:23.532 31a8 Recovering log #53
-2025/06/04-19:50:23.589 31a8 Reusing old log C:\Users\suric\bot-rpg-js\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000053.log 
-2025/06/04-19:50:25.109 140c Level-0 table #58: started
-2025/06/04-19:50:25.120 140c Level-0 table #58: 272120 bytes OK
-2025/06/04-19:50:25.121 140c Delete type=0 #53
-2025/06/04-19:50:25.122 140c Manual compaction at level-0 from '\x00\x1d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x1e\x00\x00\x00' @ 0 : 0; will stop at (end)
-2025/06/04-19:50:26.560 140c Compacting 1@1 + 1@2 files
-2025/06/04-19:50:26.609 140c Generated table #59@1: 29645 keys, 1219126 bytes
-2025/06/04-19:50:26.609 140c Compacted 1@1 + 1@2 files => 1219126 bytes
-2025/06/04-19:50:26.611 140c compacted to: files[ 0 0 1 0 0 0 0 ]
-2025/06/04-19:50:26.611 140c Delete type=2 #55
-2025/06/04-19:50:26.611 140c Delete type=2 #58
+2025/06/06-13:52:38.158 904 Reusing MANIFEST C:\Users\suric\bot-rpg-js\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/06/06-13:52:38.165 904 Recovering log #61
+2025/06/06-13:52:38.214 904 Reusing old log C:\Users\suric\bot-rpg-js\.wwebjs_auth\session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/000061.log 
+2025/06/06-13:52:42.691 1184 Manual compaction at level-0 from '\x00\x1f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00 \x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/06/06-13:52:47.843 904 Level-0 table #66: started
+2025/06/06-13:52:47.877 904 Level-0 table #66: 1338842 bytes OK
+2025/06/06-13:52:47.879 904 Delete type=0 #61
+2025/06/06-13:52:47.891 904 Compacting 1@1 + 1@2 files
+2025/06/06-13:52:47.973 904 Generated table #67@1: 41743 keys, 1773740 bytes
+2025/06/06-13:52:47.973 904 Compacted 1@1 + 1@2 files => 1773740 bytes
+2025/06/06-13:52:47.975 904 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/06-13:52:47.975 904 Delete type=2 #66
+2025/06/06-13:53:10.503 1b0c Level-0 table #69: started
+2025/06/06-13:53:10.533 1b0c Level-0 table #69: 1013806 bytes OK
+2025/06/06-13:53:10.535 1b0c Delete type=2 #63
+2025/06/06-13:53:10.535 1b0c Delete type=0 #65
+2025/06/06-13:53:30.405 1b0c Compacting 1@1 + 1@2 files
+2025/06/06-13:53:30.481 1b0c Generated table #70@1: 46042 keys, 1878556 bytes
+2025/06/06-13:53:30.481 1b0c Compacted 1@1 + 1@2 files => 1878556 bytes
+2025/06/06-13:53:30.482 1b0c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/06/06-13:53:30.482 1b0c Delete type=2 #67
+2025/06/06-13:53:30.482 1b0c Delete type=2 #69
